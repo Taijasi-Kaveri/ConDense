@@ -1,1 +1,1 @@
-# SELLING-HEIGHTS---A-Real-Estate-Website
+# IntelliNews- An Artificial Intelligence Based News Application 
