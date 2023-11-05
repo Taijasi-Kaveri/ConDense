@@ -1,4 +1,4 @@
-# IntelliNews- An Artificial Intelligence Based News Application 
+# IntelliNews- An Artificial Intelligence Based News Application [UNDER DEVELOPMENT]
 
 This is a React-based news application that leverages the power of Alan AI to enhance user interactions with voice commands. Alan AI provides natural language understanding and voice AI capabilities to make your news app more accessible and user-friendly.
 
