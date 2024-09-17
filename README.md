@@ -1,4 +1,4 @@
-# ConDense - An AI Based Article Summariser
+# ConDense.AI - An AI Based Article Summariser
 
 
 
