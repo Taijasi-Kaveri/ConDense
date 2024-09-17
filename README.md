@@ -1,6 +1,6 @@
 # ConDense - An AI Based Article Summariser
 
-This is a React-based news application that leverages the power of Alan AI to enhance user interactions with voice commands. Alan AI provides natural language understanding and voice AI capabilities to make your news app more accessible and user-friendly.
+
 
 ## Introduction
 
@@ -8,15 +8,23 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 
 ## Features
 
-👉 Modern User Interface: A modern and user-friendly interface, offering an intuitive experience for users.
++ Modern User Interface: A modern and user-friendly interface, offering an intuitive experience for users.
 
-👉 Summary Generation: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content.
++ Summary Generation: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content.
 
-👉 History Saving with Local Storage: The app includes a history feature, allowing users to save summaries locally, providing a convenient way to revisit and manage their reading history.
++ History Saving with Local Storage: The app includes a history feature, allowing users to save summaries locally, providing a convenient way to revisit and manage their reading history.
 
-👉 Copy to Clipboard Functionality: Enables users to easily share or store the summarized content by copying it to their clipboard.
++ Copy to Clipboard Functionality: Enables users to easily share or store the summarized content by copying it to their clipboard.
 
-👉 Advanced RTK Query API Requests: Utilizes the advanced capabilities of Redux Toolkit (RTK) Query for making API requests. These requests fire conditionally based on specific criteria, optimizing data fetching and management.
++ Advanced RTK Query API Requests: Utilizes the advanced capabilities of Redux Toolkit (RTK) Query for making API requests. These requests fire conditionally based on specific criteria, optimizing data fetching and management.
+
+## Future Advancements
+
+Converting into profitable SAAS Business by :
+
+1. Adding Signin / Signup Page
+
+2. Adding Payment Plans like Juspay or a Blockchain Payment Gateways.
 
 ## Demo
 
